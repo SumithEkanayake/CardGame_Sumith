@@ -115,5 +115,3 @@ internal class Program
         return maxValue;
     }
 }
-
-
